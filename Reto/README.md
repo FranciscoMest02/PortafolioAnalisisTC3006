@@ -8,7 +8,7 @@ En esta carpeta se incluye el reporte donde se muestra una normatividad (Creativ
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* **Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/MachineLearning/Implementacion%20con%20framework/Aprendizaje_maquina_con_framework_corregido.ipynb
+* **Análisis del contexto y la normatividad** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/blob/main/Reto/Analisis%20del%20contexto.pdf
 
 ## Correciones
 No se requirieron correciones para esta entrega.
