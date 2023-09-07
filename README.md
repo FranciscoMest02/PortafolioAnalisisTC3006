@@ -5,14 +5,12 @@ Respositorio para subir el portafolio de análisis de la clase TC3006. Repo de F
 * /MachineLearning: En esta carpeta se incluyen las entregas del modulo de machine learning
 * /Statistics: En esta carpeta se incluyen las entregas del modulo de estadistica
 
-## Archivos para revisión (ESTO NO ESTÁ TERMINADO)
+## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados y la subcompetencia que se espera acreditar con estos:
 
 ### SMA0104 (Módulo de Machine Learning)
 
-* **Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)** Revisar el siguiente archivo: 
-
-* **Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)** Revisar el siguiente archivo: 
+* **Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/tree/main/Machine%20Learning/Reporte%20de%20desempe%C3%B1o
 
 ### SMA0102 (Módulo de Estadística)
 
@@ -22,4 +20,4 @@ A continuación se presentan los archivos que están listos para ser retroalimen
 
 ### SEG0403 (Reto)
 
-* **Módulo 1 Actividades** Revisar la siguiente carpeta: 
+* **Módulo 1 Actividades** Revisar la siguiente carpeta: https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/tree/main/Reto
