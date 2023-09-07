@@ -4,7 +4,7 @@ En esta carpeta se incluye el reporte final del precio de los autos. Dentro del 
 
 El dataset utilizado es el de **precios_autos**, el cual se encuentra en la siguiente carpeta y link:
 *  /data
-*  https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/tree/main/Statistics/Modelo%20estadistico/data !!! NO
+*  https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/blob/main/Statistics/Modelo%20estadistico%20(Analisis%20de%20datos)/data
 
 ## Estructura del repositorio
 * Reporte.pdf: Reporte final de la actividad.
@@ -14,7 +14,7 @@ El dataset utilizado es el de **precios_autos**, el cual se encuentra en la sigu
 ## Archivos para revisión
 A continuación se presentan los archivos que están listos para ser retroalimentados: 
 
-* **Reporte final de "El precio de los autos"** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/blob/main/Statistics/Modelo%20estadistico/Reporte.pdf
+* **Reporte final de "El precio de los autos"** Revisar el siguiente archivo: https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/blob/main/Statistics/Modelo%20estadistico%20(Analisis%20de%20datos)/Reporte.pdf
 
 ## Correciones
 No se pidieron correcciones para esta entrega.
