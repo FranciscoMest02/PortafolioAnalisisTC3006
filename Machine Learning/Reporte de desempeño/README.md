@@ -4,7 +4,7 @@ En esta carpeta se incluye el jupyter notebook donde se implementa un algoritmo 
 
 El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente carpeta y link:
 *  /data
-*  https://github.com/FranciscoMest02/PortafolioImplementacionTC3006/tree/main/MachineLearning/Implementacion%20con%20framework/data
+*  https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/tree/main/Machine%20Learning/Reporte%20de%20desempe%C3%B1o/data
 
 ## Estructura del repositorio
 * Analisis_del_modelo.ipynb: En este archivo se encuentra la implemetación del árbol de decisión y el análisis de los resultados.
