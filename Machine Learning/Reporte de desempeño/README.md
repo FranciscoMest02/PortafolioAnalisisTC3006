@@ -16,4 +16,7 @@ A continuación se presentan los archivos que están listos para ser retroalimen
 * **Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)** Revisar el siguiente archivo: 
 
 ## Correciones
-AQUI VAN CORRECCIONES
+* *Se detecta correctamente el grado de bias o sesgo: bajo medio alto*: En la sección de creación de los modelos se genern matrices de confusión donde se explica el sesgo del modelo.
+* *Se detecta correctamente el grado de varianza: bajo medio alto*: En la sección de creación de los modelos se generá una grafica de accuracy y recall donde se explica la varianza del modelo.
+* *La decisión del grado de varianza se soporta con una tabla, gráfico, o similar*: En la sección de creación de los modelos se generá una grafica de accuracy y recall donde se explica la varianza del modelo.
+* *Se utilizan técnicas de regularización para mejorar el desempeño del modelo*: Se añadió la seccion de regularización donde se busca el valor óptimo de alpha para el árbol.
