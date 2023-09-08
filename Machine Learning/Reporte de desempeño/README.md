@@ -11,7 +11,7 @@ El dataset utilizado es el de **iris**, el cual se encuentra en la siguiente car
 * /data: En esta carpeta se encuentra el set de datos, en el archivo de iris.data
 
 ## Archivos para revisión
-A continuación se presentan los archivos que están listos para ser retroalimentados: 
+A continuación se presentan los archivos que están listos para ser retroalimentados: https://github.com/FranciscoMest02/PortafolioAnalisisTC3006/blob/main/Machine%20Learning/Reporte%20de%20desempe%C3%B1o/Analisis_del_modelo_corregido.ipynb
 
 * **Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)** Revisar el siguiente archivo: 
 
